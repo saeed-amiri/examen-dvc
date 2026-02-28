@@ -1,0 +1,7 @@
+2026-02-27 20:12:54,632 | INFO | Loading model from: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/models/gbr_model.pkl
+2026-02-27 20:12:54,767 | INFO | Loading processed test data
+2026-02-27 20:12:54,770 | INFO | Generating predictions
+2026-02-27 20:12:54,805 | INFO | Predictions saved to: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/data/processed/predictions.csv
+2026-02-27 20:12:54,805 | INFO | Computing evaluation metrics
+2026-02-27 20:12:54,806 | INFO | Metrics saved to: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/metrics/scores.json | {'mse': 0.7731982585300297, 'mae': 0.6755775893823838, 'r2': 0.22747878493207518}
+2026-02-27 20:12:54,806 | INFO | Model evaluation completed successfully.

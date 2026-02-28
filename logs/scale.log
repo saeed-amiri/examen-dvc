@@ -1,0 +1,4 @@
+2026-02-27 20:12:07,731 | INFO | Scaled columns (8): ['ave_flot_air_flow', 'ave_flot_level', 'iron_feed', 'starch_flow', 'amina_flow', 'ore_pulp_flow', 'ore_pulp_pH', 'ore_pulp_density'] 
+2026-02-27 20:12:07,731 | INFO | StandardScaler fit/transform on numeric columns
+2026-02-27 20:12:07,737 | INFO | Sauvegarde X_train_scaled / X_test_scaled
+2026-02-27 20:12:07,760 | INFO | Normalization finished.

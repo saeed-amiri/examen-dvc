@@ -1,0 +1,8 @@
+2026-02-27 20:12:21,961 | INFO | Loading processed training data
+2026-02-27 20:12:21,966 | WARNING | params.yaml not found. Using default parameters.
+2026-02-27 20:12:21,966 | INFO | Base model parameters: {'random_state': 42}
+2026-02-27 20:12:21,966 | INFO | Grid: {'n_estimators': [100, 300], 'max_depth': [None, 5, 10], 'min_samples_split': [2, 5], 'min_samples_leaf': [1, 2]} | CV=5 | n_jobs=-1
+2026-02-27 20:12:21,966 | INFO | Starting GridSearchCV
+2026-02-27 20:12:35,586 | INFO | GridSearch completed
+2026-02-27 20:12:35,587 | INFO | Best parameters saved to: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/models/best_params.pkl
+2026-02-27 20:12:35,587 | INFO | Grid search completed successfully.

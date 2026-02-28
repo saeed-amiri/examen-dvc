@@ -1,0 +1,6 @@
+2026-02-27 20:12:45,447 | INFO | Loading processed training data
+2026-02-27 20:12:45,452 | INFO | Loading best parameters from: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/models/best_params.pkl
+2026-02-27 20:12:45,453 | INFO | Initializing RandomForestRegressor with best parameters
+2026-02-27 20:12:45,453 | INFO | Fitting model
+2026-02-27 20:12:46,996 | INFO | Model saved to: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/models/gbr_model.pkl
+2026-02-27 20:12:46,997 | INFO | Model training completed successfully.

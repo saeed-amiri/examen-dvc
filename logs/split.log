@@ -1,0 +1,4 @@
+2026-02-27 20:07:57,326 | INFO | Loading raw data: /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/data/raw_data/raw.csv
+2026-02-27 20:07:57,344 | INFO | Split based on '80%/20%' rule
+2026-02-27 20:07:57,346 | INFO | Writing split data into /home/santiago/Documents/MyScripts/dst_flows/dvc/exam/examen-dvc/data/processed
+2026-02-27 20:07:57,373 | INFO | Data is splitted.
